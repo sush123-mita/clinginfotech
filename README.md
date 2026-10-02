@@ -1,16 +1,58 @@
-# React + Vite
+# Cling Infotech — Homepage Redesign
+live Demo : https://clinginfotech-ten.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive redesign of the Cling Infotech website homepage, created as part of the frontend design assignment.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://clinginfotech-ten.vercel.app/
 
-## React Compiler
+## 📂 Repository
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+https://github.com/sush123-mita/clinginfotech
 
-## Expanding the Oxlint configuration
+## ✨ What I Worked On
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- Redesigned the Cling Infotech homepage with a modern tech-focused interface
+- Improved visual hierarchy and content structure
+- Added responsive layouts for different screen sizes
+- Created modern navigation and interactive sections
+- Added hover and motion interactions for a more engaging experience
+- Focused on clean spacing, typography and accessibility
+- Designed the page to communicate Cling Infotech's services more clearly
+
+## 🛠️ Tech Stack
+
+- React
+- Vite
+- JavaScript
+- CSS
+- Framer Motion
+- Responsive Web Design
+
+## 🎨 Design Focus
+
+The redesign focuses on:
+
+- Modern SaaS/technology aesthetics
+- Clear content hierarchy
+- Strong visual storytelling
+- Smooth interactions
+- Responsive design
+- Professional and minimal UI
+
+## 📱 Responsive Design
+
+The website is designed to work across:
+
+- Desktop
+- Tablet
+- Mobile
+
+## ⚙️ Run Locally
+
+```bash
+git clone https://github.com/sush123-mita/clinginfotech.git
+cd clinginfotech
+npm install
+npm run dev
